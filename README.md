@@ -1,4 +1,4 @@
-# Aspiring Data Analyst
+# Shaig Khankishizade
 
 #### Technical Skills: Python, SQL, Power BI, Looker
 ## Projects
