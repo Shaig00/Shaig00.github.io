@@ -1,13 +1,13 @@
 # Aspiring Data Analyst
 
-### Projects
--Hotel Sales Data Analysis
+#### Technical Skills: Python, SQL, Power BI, Looker
+## Projects
+- Hotel Sales Data Analysis
+- User Segmentation
 
--User Segmentation
 
+## Education
+- Statistics, M.Sc.
+- Physics, B.Sc.
 
-### Education
-Statistics, M.Sc.
-Physics, B.Sc.
-
-### Work experience
+## Work experience
