@@ -1,10 +1,10 @@
 # Aspiring Data Analyst
 
 ### Projects
-Hotel Sales Data Analysis
--
-User Segmentation
-- 
+-Hotel Sales Data Analysis
+
+-User Segmentation
+
 
 ### Education
 Statistics, M.Sc.
