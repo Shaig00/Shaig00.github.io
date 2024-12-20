@@ -2,8 +2,9 @@
 
 #### Technical Skills: Python, SQL, Power BI, Looker
 ## Projects
-- Hotel Sales Data Analysis
-- User Segmentation
+#### Hotel Sales Data Analysis
+[GitHub Link]()
+#### User Segmentation
 
 
 ## Education
